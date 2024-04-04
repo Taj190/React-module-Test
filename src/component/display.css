@@ -1,0 +1,16 @@
+.table>thead>tr>th{
+    background-color: rgb(221, 255, 127);
+}
+.table>tbody>tr>td:hover{
+    background-color: blue;
+}
+.filter > h2{
+    text-align: center;
+}
+.btns{
+    margin-left: 80px;
+    margin-bottom: 5px;
+}
+.root > h1{
+    text-align: center;
+}
